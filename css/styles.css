@@ -1,0 +1,863 @@
+/* BODY */ 
+*{
+    margin: 0;
+    padding: 0;
+}
+/* FIRST-BODY */ 
+.first-body{
+    text-align: center;
+    background-color: rgb(221, 201, 201);
+    padding: 17px 0;
+}
+.first-body p{
+    color: rgb(29, 28, 28);
+    font-family: "Dosis", sans-serif;
+    font-size: 20px;
+}
+.first-body p span{
+    font-weight: bolder;
+}
+.first-body button a{
+    text-decoration: none;
+}
+.first-body button{
+    padding: 7px 16px;
+    background-color: rgb(198, 24, 24);
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bolder;
+    margin-left: 70px;
+    cursor: pointer;
+}
+.first-body button:hover{
+    background-color: rgb(136, 16, 16);
+    cursor: pointer;
+}
+
+/* SECOND-BODY */ 
+.second-body{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(53, 82, 66, 0.5), rgba(47, 80, 63, 0.6)),
+      url(../images/Young-black-lawyer-with-an-Afro-hairstyle.jpg) center no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.second-body1{
+    margin-left: 800px;
+    margin-top: 60px;
+}
+.second-body2{
+    line-height: 60px;
+}
+.second-body h1{
+    color: #fff;
+    font-size: 150px;
+    padding-bottom: 40px;
+}
+.second-body h1 span{
+    color: rgb(205, 190, 190);
+}
+.second-body h2{
+    color: #fff;
+    font-size: 50px;
+    width: 100%;
+    font-family: "Dosis", sans-serif;
+    font-weight: bolder;
+}
+.second-body p{
+    font-family: "Dosis", sans-serif;
+    color: #fff;
+    font-size: 25px;
+}
+.second-body button{
+    padding: 12px 20px;
+    background-color: rgb(0, 165, 172);
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.second-body button a{
+    color: #fff;
+    font-family: "Dosis", "sans-serif";
+    text-decoration: none;
+}
+.second-body h5 a{
+    color: #fff;
+    font-family: "Dosis", sans-serif;
+    text-decoration: none;
+}
+.second-body h5 a:hover{
+    color: #fff;
+    font-family: "Dosis", sans-serif;
+    text-decoration: underline;
+    font-size: 17px;
+}
+.second-body .fa-greater-than{
+    color: #fff;
+    font-size: 10px;
+    padding-left: 4px;
+}
+
+/* THIRD-BODY */
+.third-body{
+    display: flex;
+    place-content: center;
+}
+.third-body img{
+    height: 400px;
+    width: 430px;
+    vertical-align: middle;
+    max-width: 1088px;
+} 
+.thrb-img h4{
+    display: none;
+}
+.thrb-text{
+    width: 35%;
+    padding-left: 120px;
+}
+.third-body h4{
+    color: rgba(0, 52, 102, 1);
+    font-family: "Dosis", sans-serif;
+    font-size: 30px;
+    padding-bottom: 40px;
+}
+.third-body .first-p{
+    padding-bottom: 40px;
+}
+.third-body p{
+    line-height: 30px;
+    font-family: "Dosis", sans-serif;
+    font-size: 20px;
+}
+
+/* FOURTH-BODY */
+.fourth-body{
+    margin-top: 100px;
+    display: flex;
+    padding: 0 100px;
+    background-color: rgba(252,250,242,1);
+}
+.left{
+    padding-left: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.fourth-body h4{
+    color: rgba(0, 52, 102, 1);
+    font-family: "Dosis", sans-serif;
+    font-size: 30px;
+    padding-bottom: 40px;
+}
+.gain{
+    width: 95%;
+    padding-bottom: 40px;
+}
+.fourth-body p{
+    line-height: 30px;
+    font-family: "Dosis", sans-serif;
+    font-size: 20px;
+}
+.frth-text{
+    padding-bottom: 40px;
+    width: 95%;
+}
+.frth-text span{
+    font-weight: bolder; 
+}
+.fourth-body button{
+    padding: 12px 20px;
+    background-color: rgb(0, 165, 172);
+    border: none;
+    width: 100%;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bolder;
+    cursor: pointer;
+    font-family: "Dosis", sans-serif;
+}
+.down{
+    display: flex;
+    padding-top: 0px;
+}
+.up4{
+    margin-left: 200px;
+    padding-top: 0px;
+}
+.right{
+    margin-right: 250px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.up4 p{
+    width: 200%;
+}
+.up5{
+    padding-top: 30px;
+}
+.right .img-icn{
+    height: 60px;
+    width: 60px;
+    margin-left: 30px;
+    padding-bottom: 20px;
+}
+.access{
+    padding-top: 40px;
+    margin-left: 200px;
+}
+
+/* FIFTH-BODY */
+.fifth-body{
+    background-color: rgba(246,246,246,1);
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.fifth-body .one{
+    text-align: center;
+}
+.fifth-body .one h2{
+    font-family: "Dosis", sans-serif;
+    font-size: 38px;
+    padding-bottom: 60px;
+    color: rgba(0, 52, 102, 1);
+}
+.fifth-body .one p{
+    font-family: "Dosis", sans-serif;
+    font-size: 23px;
+    width: 60%;
+    padding-left: 330px;
+}
+.fifth-body .two{
+    display: flex;
+    padding-top: 50px;
+}
+.an{
+    width: 30%;
+    margin-left: 90px;
+}
+.bn{
+    width: 30%;
+    margin-left: 90px;
+}
+.cn{
+    width: 30%;
+    margin-left: 90px;
+}
+.fifth-body .two h4{
+    font-family: "Dosis", sans-serif;
+    font-weight: bolder;
+    font-size: 24px;
+    padding-bottom: 15px;
+    color: rgba(0, 52, 102, 1);
+}
+.fifth-body .two ul li{
+    font-family: "Dosis", sans-serif;
+    font-size: 19px;
+    line-height: 33px;
+}
+
+/* SIXTH-BODY */
+.sixth-body h1{
+    font-family: "Dosis", sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin: 90px auto;
+}
+.sixth-body img{
+    width: 70%;
+    padding-left: 170px;
+}
+.guiip{
+    display: flex;
+    margin-left: 160px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.sixth-body .guiip h4{
+    font-family: "Dosis", sans-serif;
+    width: 60%;
+    text-align: center;
+    padding: 15px;
+    font-size: 24px;
+}
+.sixth-body .guiip p{
+    font-family: "Dosis", sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+/* SEVENTH-BODY */
+.seventh-body{
+    background-color: rgb(4, 4, 77);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #fff;
+}
+.seventh-body h1{
+    font-family: "Dosis", sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+.seventh-body h4 {
+    font-family: "Dosis", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* EIGHT-BODY */
+.eight-body{
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.eight-body h2{
+    font-family: "Dosis", sans-serif;
+    font-size: 27px;
+    padding-bottom: 35px;
+    color: rgb(7, 107, 110);
+}
+.eight-body p{
+    font-family: "Dosis", sans-serif;
+    font-size: 19px;
+    padding-bottom: 35px;
+    width: 70%;
+}
+.eight-body button{
+    padding: 12px 20px;
+    background-color: rgb(9, 156, 161);
+    border: none;
+    color: #fff;
+    border-radius: 3px;
+    margin-left: 20px;
+    font-size: 17px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.eight-body button:hover{
+    background-color: rgb(91, 219, 223);
+    cursor: pointer;
+}
+.eight-body img{
+    height: 350px;
+}
+
+/* NINTH-BODY */
+.ninth-body{
+    background-color: rgb(242, 234, 224);
+}
+.nin{
+    padding-bottom: 35px;
+    padding-top: 15px;
+}
+.ninth-body h1{
+    text-align: center;
+    color: rgb(37, 37, 177);
+    font-family: "Dosis", sans-serif;
+    font-size: 45px;
+    padding: 40px;
+}
+.ninth-body h3{
+    color: rgb(5, 91, 92);
+    font-family: "Dosis", sans-serif;
+    font-size: 22px;
+    padding-bottom: 20px;
+}
+.ninth-body p{
+    padding-bottom: 20px;
+    width: 70%;
+    font-family: "Dosis", sans-serif;
+    font-size: 19px;
+}
+.ninth-body .questions{
+    margin-left: 20%;
+}
+.ninth-body img{
+    margin-top: 30px;
+    margin-left: 150px;
+    margin-bottom: 40px;
+}
+.ninth-body .alu-img{
+    width: 200px;
+    height: 130px;
+}
+
+/* FOOTER-BODY */
+footer{
+    background-color: #000;
+}
+.foot{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+footer h1{
+    color: #fff;
+    text-align: center;
+    font-size: 80px;
+    padding-bottom: 30px;
+}
+footer p{
+    font-family: "Dosis", sans-serif;
+    color: #fff;
+    text-align: center; 
+}
+footer p a{
+    text-decoration: none;
+    
+    color: rgb(220, 26, 26);
+}
+
+
+
+
+
+
+@media (max-width: 900px){
+   /* FIRST-BODY */ 
+.first-body{
+    text-align: center;
+    background-color: rgb(221, 201, 201);
+    padding: 13px;
+}
+.first-body p{
+    color: rgb(29, 28, 28);
+    font-family: "Dosis", sans-serif;
+    font-size: 14px;
+}
+.first-body button{
+    padding: 7px 6px;
+    background-color: rgb(198, 24, 24);
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 11px;
+    font-weight: bolder;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+/* SECOND-BODY */ 
+.second-body{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(53, 82, 66, 0.5), rgba(47, 80, 63, 0.6)),
+      url(../images/Young-black-lawyer-with-an-Afro-hairstyle.jpg) center no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 70px;
+    text-align: right;
+}
+.second-body1{
+    margin-left: 0px;
+    margin-right: 30px;
+    margin-top: 60px;
+}
+.second-body2{
+    line-height: normal;
+}
+.second-body h1{
+    color: #fff;
+    font-size: 100px;
+    padding-bottom: 40px;
+}
+.second-body h1 span{
+    color: rgb(205, 190, 190);
+}
+.second-body h2{
+    color: #fff;
+    font-size: 20px;
+    width: 100%;
+    font-family: "Dosis", sans-serif;
+    font-weight: bolder;
+}
+.second-body p{
+    font-family: "Dosis", sans-serif;
+    color: #fff;
+    font-size: 18px;
+    padding-top: 30px;
+}
+.second-body button{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 10px 13px;
+    background-color: rgb(0, 165, 172);
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: normal;
+    cursor: pointer;
+    font-size: 14px;
+}
+.second-body h5 a{
+    color: #fff;
+    font-family: "Dosis", sans-serif;
+    text-decoration: none;
+    font-size: 18px;
+}
+.second-body h5 a:hover{
+    color: #fff;
+    font-family: "Dosis", sans-serif;
+    text-decoration: underline;
+    font-size: 17px;
+}
+.second-body .fa-greater-than{
+    color: #fff;
+    font-size: 12px;
+    padding-left: 4px;
+}
+
+/* THIRD-BODY */
+.third-body{
+    display: block;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.third-body img{
+    height: 110px;
+    width: 140px;
+} 
+.thrb-text{
+    width: 70%;
+    padding-left: 0px;
+}
+.third-body h4{
+    color: rgba(0, 52, 102, 1);
+    font-family: "Dosis", sans-serif;
+    font-size: 18px;
+    padding-bottom: 40px;
+    display: none;
+}
+.third-body .first-p{
+    padding-bottom: 40px;
+}
+.third-body p{
+    line-height: 20px;
+    font-family: "Dosis", sans-serif;
+    font-size: 14px;
+    width: 150%;
+}
+.thrb-img{
+    display: flex;
+}
+.thrb-img h4{
+    display: block;
+    padding-top: 14px;
+    margin-right: 5px;
+    text-align: center;
+}
+
+/* FOURTH-BODY */
+.fourth-body{
+    margin-top: 100px;
+    display: block;
+    padding: 0;
+    background-color: rgba(252,250,242,1);
+}
+.left{
+    padding-left: 20px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+.fourth-body h4{
+    color: rgba(0, 52, 102, 1);
+    font-family: "Dosis", sans-serif;
+    font-size: 24px;
+    padding-bottom: 40px;
+}
+.gain{
+    width: 94%;
+    padding-bottom: 30px;
+}
+.fourth-body p{
+    line-height: 27px;
+    font-family: "Dosis", sans-serif;
+    font-size: 16px;
+}
+.frth-text{
+    padding-bottom: 40px;
+    width: 100%;
+}
+.frth-text span{
+    font-weight: bolder; 
+}
+.fourth-body button{
+    padding: 12px 20px;
+    background-color: rgb(0, 165, 172);
+    border: none;
+    width: 85%;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bolder;
+    cursor: pointer;
+    font-family: "Dosis", sans-serif;
+}
+.down{
+    display: flex;
+    padding-top: 0px;
+}
+.up4{
+    margin-left: 50px;
+    padding-top: 0px;
+}
+.right{
+    margin-right: 100px;
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+.up4 p{
+    width: 150%;
+}
+.up5{
+    padding-top: 25px;
+}
+.right .img-icn{
+    height: 60px;
+    width: 60px;
+    margin-left: 10px;
+    padding-bottom: 20px;
+}
+.access{
+    padding-top: 40px;
+    margin-left: 50px;
+}
+
+
+/* FIFTH-BODY */
+.fifth-body{
+    background-color: rgba(246,246,246,1);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.fifth-body .one{
+    text-align: center;
+}
+.fifth-body .one h2{
+    font-family: "Dosis", sans-serif;
+    width: 90%;
+    padding-left: 20px;
+    font-size: 28px;
+    padding-bottom: 30px;
+    color: rgba(0, 52, 102, 1);
+}
+.fifth-body .one p{
+    font-family: "Dosis", sans-serif;
+    font-size: 17px;
+    text-align: center;
+    width: 90%;
+    padding-left: 10px;
+}
+.fifth-body .two{
+    display: block;
+    padding-top: 40px;
+    padding-right: 70px;
+    padding-bottom: 40px;
+}
+.an{
+    width: 80%;
+}
+.bn{
+    width: 80%;
+    padding-bottom: 40px;
+}
+.cn{
+    width: 80%;
+    padding-bottom: 40px;
+
+}
+.fifth-body .two h4{
+    font-family: "Dosis", sans-serif;
+    font-weight: bolder;
+    font-size: 21px;
+    padding-bottom: 15px;
+    color: rgba(0, 52, 102, 1);
+}
+.fifth-body .two ul li{
+    font-family: "Dosis", sans-serif;
+    font-size: 16px;
+    line-height: normal;
+}
+
+
+/* SIXTH-BODY */
+.sixth-body h1{
+    font-family: "Dosis", sans-serif;
+    font-size: 28px;
+    text-align: center;
+    margin: 50px auto;
+}
+.sixth-body img{
+    width: 85%;
+    padding-left: 10px;
+}
+.guiip{
+    display: flex;
+    margin-left: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.sixth-body .guiip h4{
+    font-family: "Dosis", sans-serif;
+    width: 75%;
+    text-align: left;
+    padding: 10px;
+    font-size: 15px;
+    border-right: 2px solid #000;
+}
+.sixth-body .guiip p{
+    font-family: "Dosis", sans-serif;
+    text-align: center;
+    font-size: 12px;
+}
+
+
+/* SEVENTH-BODY */
+.seventh-body{
+    background-color: rgb(4, 4, 77);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #fff;
+}
+.seventh-body h1{
+    font-family: "Dosis", sans-serif;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 19px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+.seventh-body h4 a{
+    font-family: "Dosis", sans-serif;
+    font-size: 17px;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(218, 24, 24);
+}
+
+/* EIGHT-BODY */
+.eight-body{
+    display: block;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 0px;
+}
+.eight-body h2{
+    font-family: "Dosis", sans-serif;
+    font-size: 24px;
+    padding-bottom: 35px;
+    color: rgb(7, 107, 110);
+}
+.eight-body p{
+    font-family: "Dosis", sans-serif;
+    font-size: 17px;
+    padding-bottom: 25px;
+    width: 90%;
+}
+.eight-body button{
+    padding: 12px 20px;
+    background-color: rgb(9, 156, 161);
+    border: none;
+    color: #fff;
+    border-radius: 3px;
+    margin-left: 5px;
+    font-size: 14px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+.eight-body button:hover{
+    background-color: rgb(91, 219, 223);
+    cursor: pointer;
+}
+.eight-body img{
+    margin-top: 20px;
+    height: 250px;
+    margin-left: 50px;
+}
+
+/* NINTH-BODY */
+.ninth-body{
+    background-color: rgb(242, 234, 224);
+}
+.nin{
+    padding-bottom: 35px;
+    padding-top: 15px;
+}
+.ninth-body h1{
+    text-align: center;
+    color: rgb(37, 37, 177);
+    font-family: "Dosis", sans-serif;
+    font-size: 35px;
+    padding: 30px;
+}
+.ninth-body h3{
+    color: rgb(5, 91, 92);
+    font-family: "Dosis", sans-serif;
+    font-size: 20px;
+    padding-bottom: 20px;
+    
+}
+.ninth-body p{
+    text-align: left;
+    padding-bottom: 17px;
+    width: 90%;
+    font-family: "Dosis", sans-serif;
+    font-size: 17px;
+}
+.ninth-body .questions{
+    margin-left: 30px;
+}
+.ninth-body img{
+    margin-top: 30px;
+    margin-left: 90px;
+    margin-bottom: 20px;
+}
+.ninth-body img{
+    width: 150px;
+    height: 100px;
+}
+
+
+/* FOOTER-BODY */
+footer{
+    background-color: #000;
+}
+.foot{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+footer h1{
+    color: #fff;
+    text-align: center;
+    font-size: 70px;
+    padding-bottom: 30px;
+}
+footer p{
+    font-family: "Dosis", sans-serif;
+    color: #fff;
+    text-align: center; 
+    font-size: 17px;
+}
+footer p a{
+    text-decoration: none;
+    
+    color: rgb(220, 26, 26);
+}
+
+}
